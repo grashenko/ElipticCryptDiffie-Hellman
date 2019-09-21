@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.exe.config
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.exe
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.pdb
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.exe
+C:\Users\Admin\source\repos\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.pdb
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.exe.config
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.exe
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\bin\Debug\ElipticCrypt.pdb
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.csprojAssemblyReference.cache
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.csproj.CoreCompileInputs.cache
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.exe
+F:\univer3kurs\ElipticCrypt\ElipticCrypt\obj\Debug\ElipticCrypt.pdb
